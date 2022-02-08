@@ -1,0 +1,50 @@
+  body {
+        background-color: lightblue;       
+
+        }
+    
+    #shuvashish {
+        background-color: greenyellow;
+            }
+    
+    .dev { 
+        /*font-style:italic; 
+        background-image: url("img/ma-kali.jpg");
+        background-size: 100%;
+        background-repeat: no-repeat;*/
+        }
+
+    .sidenav {
+          width: 150px;
+          position: fixed;
+          z-index: 1;
+          top: 150px;
+          left: 20px;
+          background: #eee;
+          overflow-x: hidden;
+          padding: 8px 0;
+        }
+
+    .sidenav a {
+          padding: 6px 8px 6px 16px;
+          text-decoration: none;
+          font-size: 25px;
+          color: #2196F3;
+          display: block;
+        }
+
+     .sidenav a:hover {
+          color: #064579;
+        }
+    .center{
+        text-align: center;
+        }
+    .left{
+      float: left;
+    }
+
+    .right{
+      float: right;
+    }
+
+
