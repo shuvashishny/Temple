@@ -84,3 +84,12 @@ marquee {
 marquee {
   font-size: 20px;
 }
+
+.table-header {
+  font-size: 25px;
+  background-color: burlywood;
+}
+
+.table-body-row {
+  font-size: 20px;
+}
