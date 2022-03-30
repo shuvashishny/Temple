@@ -93,3 +93,14 @@ marquee {
 .table-body-row {
   font-size: 20px;
 }
+
+.header-second {
+  background-color: lightpink;
+  font-size: 20px;
+  border: 0.5rem outset #bf9270;
+  margin-top: 5px;
+}
+
+.table-striped>tbody>tr:nth-child(odd){
+  background-color:lightslategrey;
+}
