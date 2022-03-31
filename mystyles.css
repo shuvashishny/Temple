@@ -104,3 +104,9 @@ marquee {
 .table-striped>tbody>tr:nth-child(odd){
   background-color:lightslategrey;
 }
+
+.ekadashi {
+  font-size: 30px;
+  text-align: center;
+
+}
